@@ -1,0 +1,11 @@
+/target/
+**/*.rs.bk
+*.pdb
+*.exe
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.DS_Store
+Thumbs.db
